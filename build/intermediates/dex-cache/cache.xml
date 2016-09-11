@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_1e9358b2fcffb568966b3327c701ee3710019d81/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_47f25eb6c79970f7f84d42f373533f27c5eca265/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_63b71fba86cec4d1067df0f63883b826bd1d81ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="561729515d1d04a122823f3cf5444d08f314ef1d">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c125718d4c37ccda0a281cb0ca7e7d6917b957e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6042a5954642713e52ed0aff90029d61faa93ed5">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cf0808bd6292617b27c201a5d52f49f27cacdca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH06/DateTimePickerDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_9434862d1280b30d17c6832d39b85980c95406ae/classes.dex" />
+    </item>
+
+</items>

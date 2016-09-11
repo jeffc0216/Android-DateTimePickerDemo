@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DateTimePickerDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="text_tvDateTime">Current date and time</string>
+    <string name="text_btDatePicker">Date picker</string>
+    <string name="text_btTimePicker">Time Picker</string>
+
+</resources>
